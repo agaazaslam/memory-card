@@ -3,8 +3,6 @@
 A fun and interactive memory game built with React. This app fetches image cards from an external API and challenges users to click cards without repeating any previous choice.
 It features a real-time score tracker and keeps track of the best score achieved in the session.
 
-A brief and clear description of what your project does.
-
 Live preview: [https://memory-card.agaazaslam.com](https://memory-card.agaazaslam.com)
 
 ## Features
