@@ -19,9 +19,9 @@ Live preview: [https://memory-card.agaazaslam.com](https://memory-card.agaazasla
 - Frontend: React, Tailwind CSS
 - External API ([PokeAPI](https://pokeapi.co))
 
-## Screenshots
+## Screenshot
 
-[!App Screenshot](./assets/memorycard-screenshot-2025-06-03.png)
+![App Screenshot](./assets/memorycard-screenshot-2025-06-03.png)
 
 ## Installation
 
